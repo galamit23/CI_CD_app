@@ -9,6 +9,9 @@ function App() {
         <p>
           This is the new "p" tag..
         </p>
+        <p>
+          second line here
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
