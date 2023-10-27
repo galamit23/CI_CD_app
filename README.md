@@ -48,5 +48,5 @@ The GitHub Actions workflow will handle the rest, building and deploying your we
 
 If you have questions or would like to collaborate, feel free to reach out:
 
-- Email: your.email@example.com
-- LinkedIn: Your LinkedIn Profile
+- Email: gal0688@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gal-amit-6945a9257/
